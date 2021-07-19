@@ -17,7 +17,7 @@
     "gatsby": "^2.15.20",
     "gatsby-plugin-react-helmet": "^3.1.8",
     "gatsby-source-filesystem": "^2.1.26",
-    "gatsby-source-wordpress": "^3.1.36",
+    "gatsby-source-wordpress": "^4.0.8",
     "gatsby-transformer-remark": "^2.6.24",
     "innertext": "^1.0.3",
     "react": "^16.9.0",
